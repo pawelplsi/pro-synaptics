@@ -1,0 +1,1 @@
+/home/synaptics/xf86-input-synaptics/xf86-input-synaptics-1.9.1.tar.bz2.sig
